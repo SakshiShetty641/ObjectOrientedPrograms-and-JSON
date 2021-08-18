@@ -16,10 +16,10 @@ import org.json.simple.parser.ParseException;
 public class InventoryDataManagement {
 
 	/**
-	 * Purpose: Method to read Inventory.json file and find the total price.
-	 * Providing read-only access to JSON data. Reading the external JSON file.
-	 * Creating main object to store JSONParser, JSONObject and JSONArray. Parsing
-	 * object to JSONObject from Inventory.json file.
+	 * Purpose: Method to read Inventory.json file and find the total price
+	 * Providing read-only access to JSON data. Reading the external JSON file
+	 * Creating main object to store JSONParser, JSONObject and JSONArray 
+	 * Parsing object to JSONObject from Inventory.json file
 	 */
 	public void readInventoryJsonFile() throws IOException, ParseException {
 
