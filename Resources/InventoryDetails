@@ -1,0 +1,68 @@
+{
+	"Rice" :
+		[
+			{
+				"Name"			: "Brown rice",
+				"Weight"		: 10,
+				"PriceperKG"  :  70 												
+			},
+			{
+				"Name"			: "Sona Masoori",
+				"Weight"		: 15,
+				"PriceperKG"  : 60 												
+			}
+			
+			{
+				"Name"			: "Basmati",
+				"Weight"		: 16,
+				"PriceperKG"  : 65												
+			}
+			
+		],
+		
+	"Pulses" :
+		[
+			{
+				"Name"			: "Moong Daal",
+				"Weight"		: 10,
+				"PriceperKG"  : 150
+			},
+			{
+				"Name"			: "Masoor Dal",
+				"Weight"		: 8,
+				"PriceperKG"  : 100
+			}
+			
+			{
+				"Name"			: "Urad Dal",
+				"Weight"		: 5,
+				"PriceperKG"  : 150
+			}
+			
+
+		],
+
+    "Wheat" :
+		[
+			
+			{
+				"Name"			: "Ashirvad",
+				"Weight"		: 12,
+				"PriceperKG"  : 45
+			},
+			{
+				"Name"			: "Annapurna",
+				"Weight"		: 15,
+				"PriceperKG"  : 50
+			}	
+			
+			{
+				"Name"			: "Pillsbury",
+				"Weight"		: 10,
+				"PriceperKG"  : 55
+			}	
+			
+			
+		]
+
+}
