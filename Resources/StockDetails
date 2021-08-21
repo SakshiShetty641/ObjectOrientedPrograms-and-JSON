@@ -1,0 +1,24 @@
+{
+	"Stock" :
+		[
+			{    
+			    "stockName":"Tesla"
+				"numberOfShare":900,
+				"price":50.0
+																
+			},
+			{
+				"stockName":"SBI"
+				"numberOfShare":700,
+				"price":60.0											
+			},
+			
+			{
+				"stockName":"Infosys Ltd."
+				"numberOfShare":1000,
+				"price":80.0											
+			}
+					
+		]
+		
+	}
